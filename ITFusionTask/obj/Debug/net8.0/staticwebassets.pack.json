@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ITFusionTask.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ITFusionTask.rhh9v6ywsi.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\css\\DataTable\\buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets\\css\\DataTable\\buttons.bootstrap5.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\css\\DataTable\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\css\\DataTable\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\css\\DataTable\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\css\\DataTable\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\css\\DataTable\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\css\\DataTable\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\css\\DataTable\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\DataTable\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\buttons.bootstrap5.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\buttons.bootstrap5.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\buttons.html5.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\dataTables.buttons.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\datatable_file.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\datatable_file.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\DataTable\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\DataTable\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\css\\datatable-bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable-bootstrap.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\css\\datatable-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\css\\datatable.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\css\\datatable.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatable\\css\\datatable.min.css"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\img\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\img\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_both.png"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\img\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatable\\img\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\js\\datatable.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.jquery.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\js\\datatable.jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.jquery.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\js\\datatable.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\datatable\\js\\datatable.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatable\\js\\datatable.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Task IT Fusion\\ITFusionTask\\ITFusionTask\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ITFusionTask.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ITFusionTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ITFusionTask.props",
+      "PackagePath": "build\\ITFusionTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ITFusionTask.props",
+      "PackagePath": "buildMultiTargeting\\ITFusionTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ITFusionTask.props",
+      "PackagePath": "buildTransitive\\ITFusionTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

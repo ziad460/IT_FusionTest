@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zRDD1jwPRY4j2ftEjUnMncyn6yzCrn496e4V1zIwqt0=",
+  "Source": "ITFusionTask.API",
+  "BasePath": "_content/ITFusionTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

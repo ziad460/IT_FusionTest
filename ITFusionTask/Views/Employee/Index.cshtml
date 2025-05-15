@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+
+<div class="card-body text-black">
+    <div class="table-responsive">
+        <table width="100%" class="table table-bordered table-hover display text-black" cellspacing="0" id="pageTable">
+            <thead>
+                <tr>
+                    <th>Employee Name</th>
+                    <th>Employee Phone</th>
+                    <th>Employee Gender</th>
+                    <th>Employee Salary</th>
+                    <th>Employee JoinDate</th>
+                    <th>Update</th>
+                    <th>Remove</th>
+                </tr>
+            </thead>
+            <tbody id="tBody text-black">
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section scripts {
+
+    <script>
+
+        $(document).ready(function () {
+            $('#pageTable').DataTable({
+                    dom: 'Bflrtip',
+                    "columnDefs": [
+                        { "className": "dt-center", "targets": "_all" }
+                    ],
+                    "proccessing": true,
+                    "serverSide": true,
+                    "lengthMenu": [10, 50, 100, 150, 200, 400],
+                    "ajax": {
+                        url: fronApplicationPath + "Employee/GetAllEmployeePaging",
+                        type: 'POST'
+                    },
+                    "language": {
+                        "search": "",
+                        "searchPlaceholder": "Search..."
+                    },
+                    "columns": [
+                        { "data": "name" },
+                        { "data": "phone" },
+                        { "data": "gender" },
+                        { "data": "salary" },
+                        { "data": "joinDate" },
+                        {
+                            data: 'id',
+                            render: function (data, type) {
+                                if (type === 'display') {
+                                    return '<a href="Employee/EditEmployee/' + data + '" class="btn btn-primary"> Edit </a>';
+                                }
+                                return data;
+                            }
+                        },
+                        {
+                            data: 'id',
+                            render: function (data, type) {
+                                if (type === 'display') {
+                                    return '<a href="Employee/RemoveEmployee/' + data + '" class="btn btn-danger"> Remove </a>';
+                                }
+                                return data;
+                            }
+                        },
+                    ]
+                });
+        })
+
+    </script>
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

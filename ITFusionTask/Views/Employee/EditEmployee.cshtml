@@ -1,0 +1,53 @@
+﻿@using ITFusionTask.Data.Entities
+@model Employee
+@{
+    ViewData["Title"] = "Edit Employee";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h2>Edit Employee</h2>
+
+<form asp-action="EditEmployee" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="E_Name" class="control-label"></label>
+        <input asp-for="E_Name" class="form-control" />
+        <span asp-validation-for="E_Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="E_JoinDate" class="control-label"></label>
+        <input asp-for="E_JoinDate" class="form-control" type="date" />
+        <span asp-validation-for="E_JoinDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="E_Phone" class="control-label"></label>
+        <input asp-for="E_Phone" class="form-control" />
+        <span asp-validation-for="E_Phone" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="E_GenderId" class="control-label"></label>
+        <select asp-for="E_GenderId" asp-items="ViewBag.Genders" class="form-control">
+            <option value="">-- Select Gender --</option>
+        </select>
+        <span asp-validation-for="E_GenderId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="E_Salary" class="control-label"></label>
+        <input asp-for="E_Salary" class="form-control" />
+        <span asp-validation-for="E_Salary" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

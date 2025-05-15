@@ -1,0 +1,14 @@
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\bin\Debug\net8.0\ITFusionTask.Data.deps.json
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\bin\Debug\net8.0\ITFusionTask.Data.runtimeconfig.json
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\bin\Debug\net8.0\ITFusionTask.Data.dll
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\bin\Debug\net8.0\ITFusionTask.Data.pdb
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ITFusionTask.Data.csproj.AssemblyReference.cache
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ITFusionTask.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ITFusionTask.Data.AssemblyInfoInputs.cache
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ITFusionTask.Data.AssemblyInfo.cs
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ITFusionTask.Data.csproj.CoreCompileInputs.cache
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ITFusionTask.Data.dll
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\refint\ITFusionTask.Data.dll
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ITFusionTask.Data.pdb
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ITFusionTask.Data.genruntimeconfig.cache
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Data\obj\Debug\net8.0\ref\ITFusionTask.Data.dll

@@ -1,0 +1,15 @@
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\bin\Debug\net8.0\ITFusionTask.Reposatories.deps.json
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\bin\Debug\net8.0\ITFusionTask.Reposatories.dll
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\bin\Debug\net8.0\ITFusionTask.Reposatories.pdb
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\bin\Debug\net8.0\ITFusionTask.Data.dll
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\bin\Debug\net8.0\ITFusionTask.Data.pdb
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ITFusionTask.Reposatories.csproj.AssemblyReference.cache
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ITFusionTask.Reposatories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ITFusionTask.Reposatories.AssemblyInfoInputs.cache
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ITFusionTask.Reposatories.AssemblyInfo.cs
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ITFusionTask.Reposatories.csproj.CoreCompileInputs.cache
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ITFusion.3272E1F2.Up2Date
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ITFusionTask.Reposatories.dll
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\refint\ITFusionTask.Reposatories.dll
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ITFusionTask.Reposatories.pdb
+D:\Task IT Fusion\ITFusionTask\ITFusionTask.Reposatories\obj\Debug\net8.0\ref\ITFusionTask.Reposatories.dll
